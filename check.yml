@@ -2,5 +2,5 @@
   tasks:
     - name: checking data
       debug:
-        msg: " Hello Wordl"
+        msg: " Hello Word2"
            
