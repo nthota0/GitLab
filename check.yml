@@ -1,0 +1,6 @@
+- hosts: all
+  tasks:
+    - name: checking data
+      debug:
+        msg: " Hello Wordl"
+           
